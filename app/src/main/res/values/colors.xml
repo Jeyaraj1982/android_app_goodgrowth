@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorLiteOrange">#EB8B2D</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="ColorDarkPink">#9C27B0</color>
+</resources>
